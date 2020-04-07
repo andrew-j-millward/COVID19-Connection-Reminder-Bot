@@ -1,2 +1,2 @@
 # COVID19-Connection-Reminder-Bot
-Sends reminders to registered email addresses to contact loved ones daily during the COVID-19 pandemic.
+Sends reminders to registered email addresses to contact loved ones daily during the COVID-19 pandemic. Users can register their email address at https://forms.gle/z5UBhSpDRLW6UGQo7, input their email address, select sending frequency, and they will automatically receive reminder emails every morning to contact their friends and families to let them know they are there during the isolating moments of the COVID-19 pandemic.
